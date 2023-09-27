@@ -16,3 +16,16 @@ sex = "Female";
 console.log(age)
 age = "6";
 console.log(age)
+
+/*constants*/
+
+const occupation = "Automation QA"
+console.log(occupation)
+
+/* data types */
+
+var middleName = "David" //string
+var ageofBorn = 25  //number
+var isHeMarried = false //boolean
+var yearsInMarriage = null //null
+var numderOfCard = undefined  //undefined
