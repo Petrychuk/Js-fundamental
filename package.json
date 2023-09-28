@@ -9,5 +9,6 @@
   "license": "ISC",
   "devDependencies": {},
   "description": "",
-  "dependencies": { }
+  "dependencies": { },
+  "type": "module"
 }
